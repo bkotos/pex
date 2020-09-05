@@ -1,7 +1,7 @@
 help:
 	@cat help.txt
 
-test.php:
+test.php: start
 	@docker-compose exec php bash -c "php examples/test.php"
 
 php: start
