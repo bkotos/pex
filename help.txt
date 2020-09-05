@@ -1,0 +1,19 @@
+make help
+                Get help text.
+
+make test.php
+                Run the example file "test.php".
+make php
+                Enter an interactive PHP REPL.
+
+make bash
+                Enter a bash terminal with access to the underlying PHP container.
+
+make install
+                Install all project dependencies via composer.
+
+make start
+                Start the PHP container in the background
+
+make stop
+                Stop the PHP container.
