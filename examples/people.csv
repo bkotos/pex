@@ -1,0 +1,5 @@
+firstName,lastName,birthYear,employer.name,employer.foundingYear,employer.ceo.firstName,employer.ceo.lastName,employer.ceo.birthYear,employer.parentCompany.name,employer.parentCompany.foundingYear,employer.parentCompany.ceo.firstName,employer.parentCompany.ceo.lastName,employer.parentCompany.ceo.birthYear
+John,Smith,1990,"Acme, LLC.",1952,Frieda,Howe,1972,"Bizcorp, Inc.",1892,Jace,Powlowski,1983
+Dorothy,Hermann,1987,"Acme, LLC.",1952,Frieda,Howe,1972,"Bizcorp, Inc.",1892,Jace,Powlowski,1983
+Chanelle,Gleason,1992,"Bizcorp, Inc.",1892,Jace,Powlowski,1969,,,,,
+Theodore,Runte,1989,Infotech Co.,1987,Rashad,Kertzmann,1983,,,,,

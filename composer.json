@@ -1,0 +1,24 @@
+{
+    "name": "bkotos/hydrate",
+    "description": "A simple library for hydrating PHP entities and value objects.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Kotos",
+            "email": "brian.kotos@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "7.1.0",
+        "symfony/property-info": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pex\\": "./src"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.4"
+    }
+}
